@@ -14,13 +14,14 @@ more: https://spring.io/guides/gs/consuming-rest/
 
 
 # Observação:
-Esse serviço são dados abertos da Câmara dos Deputados!
+Esses dados são públicos ou abertos e são exclusivos da Câmara dos Deputados.
 Esta versão pode entregar dados puros em formatos JSON e XML, e tenta se aderir ao máximo à arquitetura REST.
 
-Documentação da API:
+Documentação da API da Câmara dos Deputados:
 https://dadosabertos.camara.leg.br/swagger/api.html#api
 
-### Imagens:
+### Imagens da API externa:
+
 
 
 

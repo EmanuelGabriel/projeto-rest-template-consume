@@ -46,14 +46,14 @@ https://dadosabertos.camara.leg.br/swagger/api.html#api
 
 
 Ferramentas e tecnologias
-ballot_box_with_check Java 11
+[X] Java 11
 
-ballot_box_with_check Spring Boot
+[X] Spring Boot
 
-ballot_box_with_check Spring Data JPA
+[X] Spring Data JPA
 
-ballot_box_with_check Swagger
+[] Swagger
 
-ballot_box_with_check Banco de dados H2
+[X]  Banco de dados H2
 
-ballot_box_with_check Modelo arquitetural REST
+[X] Modelo arquitetural REST

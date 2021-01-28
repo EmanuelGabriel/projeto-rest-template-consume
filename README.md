@@ -45,3 +45,15 @@ https://dadosabertos.camara.leg.br/swagger/api.html#api
 ![alt text](https://github.com/EmanuelGabriel/dsdelivery-assets/blob/main/endpoints%20camara%20dos%20deputados.png)
 
 
+Ferramentas e tecnologias
+ballot_box_with_check Java 11
+
+ballot_box_with_check Spring Boot
+
+ballot_box_with_check Spring Data JPA
+
+ballot_box_with_check Swagger
+
+ballot_box_with_check Banco de dados H2
+
+ballot_box_with_check Modelo arquitetural REST

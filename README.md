@@ -45,18 +45,7 @@ https://dadosabertos.camara.leg.br/swagger/api.html#api
 ![alt text](https://github.com/EmanuelGabriel/dsdelivery-assets/blob/main/endpoints%20camara%20dos%20deputados.png)
 
 
-Ferramentas e tecnologias
-[X] Java 11
-
-[X] Spring Boot
-
-[X] Spring Data JPA
-
-[] Swagger
-
-[X]  Banco de dados H2
-
-[X] Modelo arquitetural REST
+### Ferramentas e tecnologias
 
 - [x] Java 11
 - [x] Spring Boot

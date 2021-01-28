@@ -46,15 +46,19 @@ https://dadosabertos.camara.leg.br/swagger/api.html#api
 
 
 
-### Ferramentas e tecnologias utilizadas
+<h3>Ferramentas e tecnologias utilizadas</h3>
 
-- [x] Java 11
-- [x] Spring Boot
-- [x] Spring Data JPA
-- [ ] Swagger
-- [x] Banco de dados H2
-- [x] Modelo arquitetural REST
-- [x] RestTemplate
+:ballot_box_with_check: Java 11
 
+:ballot_box_with_check: Spring Boot
 
+:ballot_box_with_check: Spring Data JPA
+
+:ballot_box_with_check: Swagger
+
+:ballot_box_with_check: Banco de dados H2
+
+:ballot_box_with_check: Modelo arquitetural REST
+
+:ballot_box_with_check: RestTemplate
 

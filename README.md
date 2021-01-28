@@ -13,7 +13,7 @@ RestTemplate é uma classe utilitária que permite interagir com serviços RESTf
 
 more info: https://spring.io/guides/gs/consuming-rest/
 
-:information_source: OBS: Os dados são públicos e podem ser obtidos pelo link: <a href="https://dadosabertos.camara.leg.br/swagger/api.html">Dados públicos Câmara dos Deputados</a>
+:information_source: OBS: Os dados são públicos e podem ser obtidos pelo link: <a href="https://dadosabertos.camara.leg.br/swagger/api.html">Dados públicos da Câmara dos Deputados</a>
 
 ### Recursos/endpoints do Projeto "projeto-rest-template-consume"
 

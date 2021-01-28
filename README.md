@@ -17,6 +17,24 @@ more info: https://spring.io/guides/gs/consuming-rest/
 Esses dados são públicos ou abertos e são exclusivos da Câmara dos Deputados.
 Esta versão pode entregar dados puros em formatos JSON e XML, e tenta se aderir ao máximo à arquitetura REST.
 
+
+### Recursos/endpoints do Projeto "projeto-rest-template-consume"
+
+#### Imagens:
+
+ Recursos/endpoints com passagem de parâmetros
+![alt text](https://github.com/EmanuelGabriel/dsdelivery-assets/blob/main/camaradeputados01.png)
+
+ Recursos/endpoints com passagem de parâmetros
+![alt text](https://github.com/EmanuelGabriel/dsdelivery-assets/blob/main/camaradeputados02.png)
+
+ Recursos/endpoints com passagem de parâmetros
+![alt text](https://github.com/EmanuelGabriel/dsdelivery-assets/blob/main/camaradeputados03.png)
+
+
+
+
+
 Documentação da API da Câmara dos Deputados:
 https://dadosabertos.camara.leg.br/swagger/api.html#api
 
@@ -25,7 +43,5 @@ https://dadosabertos.camara.leg.br/swagger/api.html#api
 ![alt text](https://github.com/EmanuelGabriel/dsdelivery-assets/blob/main/dadosabertoscamaradeputados.png)
 
 ![alt text](https://github.com/EmanuelGabriel/dsdelivery-assets/blob/main/endpoints%20camara%20dos%20deputados.png)
-
-
 
 

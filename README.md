@@ -57,3 +57,10 @@ Ferramentas e tecnologias
 [X]  Banco de dados H2
 
 [X] Modelo arquitetural REST
+
+- [x] Java 11
+- [x] Spring Boot
+- [x] Spring Data JPA
+- [ ] Swagger
+- [x] Banco de dados H2
+- [x] Modelo arquitetural REST
